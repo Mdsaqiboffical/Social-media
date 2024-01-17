@@ -1,0 +1,142 @@
+body {
+    background-color: #943e3e;
+}
+
+.box {
+    display: flex;
+}
+
+.box-1 {
+    background-color: #18189999;
+    margin: 50px;
+    padding: 70px;
+    padding-bottom: 70px;
+    border: 5px solid black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+    height: 250px;
+    width: 200px;
+    border-radius: 20px;
+    /* background: linear-gradient(red blue); */
+}
+.img-1 {
+    height: 30px;
+    width: 30px;
+    /* border: 2px solid none; */
+}
+.box-1:hover {
+    background-color: #07008f;
+   
+}
+
+.button-1 {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 5px;
+    cursor: pointer;
+}
+.button-1:active {
+background-color: aqua;
+}
+.button-1:hover {
+    background-color: chartreuse;
+}
+.button-1:visited {
+    background-color: #e8ef21;
+}
+.box-2 {
+    background-color: #e526cf98;
+    margin: 50px;
+    padding: 70px;
+    padding-bottom: 70px;
+    border: 5px solid black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+    height: 250px;
+    width: 200px;
+    border-radius: 20px;
+}
+.img-2 {
+    height: 30px;
+    width: 30px;
+    /* border: 2px solid none; */
+}
+.box-2:hover {
+    background-color: #fd0050;
+}
+
+.button-2 {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 5px;
+    cursor: pointer;
+}
+.button-2:active {
+background-color: aqua;
+}
+.button-2:hover {
+    background-color: chartreuse;
+}
+.button-2:visited {
+    background-color: #e8ef21;
+}
+.box-3 {
+    background-color: #fc8282a9;
+    margin: 50px;
+    padding: 70px;
+    padding-bottom: 70px;
+    border: 5px solid black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+    height: 250px;
+    width: 200px;
+    border-radius: 20px;
+}
+.img-3 {
+    height: 30px;
+    width: 30px;
+    /* border: 2px solid none; */
+}
+.box-3:hover {
+    background-color: #c10606;
+}
+
+.button-3 {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 5px;
+    cursor: pointer;
+}
+.button-3:active {
+background-color: aqua;
+}
+.button-3:hover {
+    background-color: chartreuse;
+}
+.button-3:visited {
+    background-color: #e8ef21;
+}
